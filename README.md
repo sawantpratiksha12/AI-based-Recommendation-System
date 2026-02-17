@@ -27,3 +27,6 @@ The project also strengthened my analytical thinking. I learned to evaluate whet
 This internship provided valuable exposure to artificial intelligence applications in software development. Recommendation systems are a core component of modern digital platforms, and building one gave me practical insight into how personalization technologies work behind the scenes. I now have a stronger foundation in AI concepts, data-driven decision-making, and Java-based machine learning tools.
 
 Overall, the experience bridged theoretical AI concepts with hands-on implementation. It enhanced my confidence in working with intelligent systems and prepared me for future projects involving machine learning, big data, and personalized user experiences.**
+
+**OUTPUT
+![Image](https://github.com/user-attachments/assets/5308a2d5-d531-4e01-bc53-2162014b2922)
